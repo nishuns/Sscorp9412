@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Sscorp9412/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 ### Hi there 👋
 
 <h1>
